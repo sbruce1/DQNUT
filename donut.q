@@ -1,5 +1,5 @@
 -1 "\033[2J";
-              A:B:0;r:{y*0+
+                A:B:0;r:{y*0+
             til 1+7h$div[x;y]};j:r
          [6.28;0.07];i:r[6.28;0.02];
         jj:flip count[i]#enlist j;ii:
